@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💕
 
-<!--
-**hillaryalmeida2/hillaryalmeida2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Hillary Victoria
 
-Here are some ideas to get you started:
+- Estou Estudando na [Alura](https://WWW.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- utilizo para minha organização e compartilhameto dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  00001126764668sp@aluno.educacao.sp.gov.br
+
+  @011_victoriaaa
+
+
+ ![](https://media1.tenor.com/m/GaM2IijvoOUAAAAd/shy-dog-dog.gif)
+ 
